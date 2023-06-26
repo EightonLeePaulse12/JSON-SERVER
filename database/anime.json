@@ -1,0 +1,58 @@
+{
+    "anime":[
+        {
+            "name":"Dragon-Ball Z",
+            "main-character":"Son Goku",
+            "year-released":"1989",
+            "author":"Akira Toriyama",
+            "rating":"4.7 || 1659 ratings",
+            "picture":"https://i.postimg.cc/fLd1DFBF/80s-90s-Dragon-Ball-Art.jpg"
+    
+        },
+        {
+            "name":"One Piece",
+            "main-character":"Monkey D Luffy",
+            "year-released":"1999",
+            "author":"Eiichiro Oda",
+            "rating":"4.7 || 5270 ratings",
+            "picture":"https://i.postimg.cc/Hx5WR65W/download-1.jpg"
+    
+        },
+        {
+            "name":"JoJo's Bizarre Adventure",
+            "main-character":"JoJo",
+            "year-released":"2012",
+            "author":"Hirihiko Araki",
+            "rating":"4.7 || 1445 ratings",
+            "picture":"https://i.postimg.cc/SNYd581T/JOJO-S-BIZARRE-ADVENTURE.jpg"
+    
+        },
+        {
+            "name":"Vinland Saga",
+            "main-character":"Thorfinn Karlsefni",
+            "year-released":"2019",
+            "author":"Makoto Yukimura",
+            "rating":"4.7 || 470 ratings",
+            "picture":"https://i.postimg.cc/ZYpWNTwQ/Vinland-Saga-Poster.jpg"
+    
+        },
+        {
+            "name":"Naruto",
+            "main-character":"Naruto Uzumaki",
+            "year-released":"1999",
+            "author":"Masashi Kishimoto",
+            "rating":"4.8 || 4615 ratings",
+            "picture":"https://i.postimg.cc/sf4Vy163/NARUTO.jpg"
+    
+        },
+        {
+            "name":"Death Note",
+            "main-character":"Light Yagami",
+            "year-released":"2006",
+            "author":"Tsugumi Ohba",
+            "rating":"4.9 || 6445 ratings",
+            "picture":"https://i.postimg.cc/Y2ns1Hj1/GB-eye-Death-Note-Protagonists-61-x-91-5cm-Maxi-Poster.jpg"
+    
+        }
+    ]
+}
